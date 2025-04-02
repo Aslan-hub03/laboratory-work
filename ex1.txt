@@ -1,0 +1,17 @@
+Directories:
+ex6
+всё остальное
+
+Files:
+desktop.ini
+ex4.txt
+ex5.txt
+ex7.txt
+
+All Items:
+desktop.ini
+ex4.txt
+ex5.txt
+ex6
+ex7.txt
+всё остальное
