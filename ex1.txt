@@ -15,3 +15,4 @@ ex5.txt
 ex6
 ex7.txt
 всё остальное
+asdasd
